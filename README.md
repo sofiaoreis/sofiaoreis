@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-🔬⚙️ I’m currently performing research on static analysis optimization and automated program repair for security vulnerabilities.
-
-Hello from codespaces! 👩‍💻
+🔬⚙️ I’m currently performing research on static analysis tools optimization in the context of security.
