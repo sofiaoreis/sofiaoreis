@@ -7,7 +7,7 @@ I'm a PhD Candidate at the University of Lisbon. I perform research in security,
 - [Security Patches Dataset](https://github.com/TQRG/security-patches-dataset) - Collection of datasets for vulnerability prediction -- monthly updated. 
 - [SECOM](https://github.com/TQRG/secom) - A convention for security commits messages.
 - [Lithium-Slicer](https://github.com/sofiaoreis/lithium-slicer) - A test minimization tool to help developers create smaller test inputs (i.e., code snippets) in their bug reports (program slicer based on the Mozilla lithium tool).
-- ... and many others that will soon be published.
+- ... and many more that will soon be published.
 
 ✨ Contributions:
 - [Infer](https://github.com/facebook/infer/commits?author=sofiaoreis) - I've added models to Meta/Facebook's static analyzer to boost the detection of performance issues in C/C++ (12 weeks internship).
