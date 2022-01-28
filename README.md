@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👽
 
 I'm a PhD Candidate at the University of Lisbon. I perform research in security, software engineering, productivity, program analysis, machine learning, software maintainability and best practices.  
 
