@@ -5,7 +5,7 @@ I'm a PhD Candidate at the University of Lisbon. I perform research in security,
 🍵 My projects:
 - [Secbench](https://tqrg.github.io/secbench/) - A dataset of 676 security patches (mutli-language, single-commits). 
 - [Security Patches Dataset](https://github.com/TQRG/security-patches-dataset) - Collection of datasets for vulnerability prediction -- monthly updated. 
-- [SECOM](https://github.com/TQRG/secom) - A convention to structure security commits messages.
+- [SECOM](https://github.com/TQRG/secom) - A convention for security commits messages.
 - [Lithium-Slicer](https://github.com/sofiaoreis/lithium-slicer) - A test minimization tool to help developers create smaller test inputs (i.e., code snippets) in their bug reports (program slicer based on the Mozilla lithium tool).
 
 ✨ Contributions:
