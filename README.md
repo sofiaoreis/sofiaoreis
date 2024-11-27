@@ -1,10 +1,10 @@
-### Hi there 👽
+### Hi, there! 👽
 
-I'm a PhD Candidate at the University of Lisbon. I perform research in security, software engineering, productivity, program analysis, machine learning, software maintainability and best practices.  
+I perform research in security, software engineering, productivity, program analysis, machine learning, software maintainability and best practices.  
 
 🍵 My projects:
-- [Secbench](https://tqrg.github.io/secbench/) - A dataset of 676 security patches (mutli-language, single-commits). 
-- [Security Patches Dataset](https://github.com/TQRG/security-patches-dataset) - Collection of datasets for vulnerability prediction -- monthly updated. 
+- [Secbench](https://tqrg.github.io/secbench/) - A dataset of 676 security patches (multi-language, single-commits). 
+- [Security Patches Dataset](https://github.com/TQRG/security-patches-dataset) - Collection of security patches.
 - [SECOM](https://github.com/TQRG/secom) - A convention for security commit messages.
 - [SECOMlint](https://github.com/TQRG/secomlint) - A linter for security commit messages. It measures compliance against SECOM.
 - [SAST](https://tqrg.github.io/sast/) - A collection of static analyzers for security.
